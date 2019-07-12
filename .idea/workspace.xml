@@ -1,7 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d34d9ab7-6f16-48c9-9aa3-f14522a9777a" name="Default Changelist" comment="" />
+    <list default="true" id="d34d9ab7-6f16-48c9-9aa3-f14522a9777a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/Libraries.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/css/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/Popular-Books/A-Tale-of-Two-Cities.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/Popular-Books/Don-Quixote.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/Popular-Books/One-Hundred-Years-of-Solitude.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/header-bg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/items-wrapper-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/libraries/library1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/libraries/library2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/libraries/library3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/libraries/library4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/libraries/library5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/libraries/library6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/libraries/library7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/libraries/library8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/suggested-books/book1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/suggested-books/book2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/suggested-books/book3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/suggested-books/book4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/title-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/wood-bg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/writers-bg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/writers/Charles_Dickens-book1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/writers/Charles_Dickens-book2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/writers/Charles_Dickens.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/writers/Jane_Austen-book1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/writers/Jane_Austen-book2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/writers/Jane_Austen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/writers/Victor_Hugo-book1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/writers/Victor_Hugo-book2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/writers/Victor_Hugo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/writers/William_Shakespeare-book1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/writers/William_Shakespeare-book2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/img/writers/William_Shakespeare.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/js/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/DEPLOY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/ROADMAP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/_editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/_gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/_jscsrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/_jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/dist/css/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/dist/css/lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/dist/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/dist/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/dist/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/dist/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/dist/js/lightbox-plus-jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/dist/js/lightbox-plus-jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/dist/js/lightbox-plus-jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/dist/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/dist/js/lightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/dist/js/lightbox.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/examples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/src/css/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/src/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/src/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/src/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/src/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/src/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/video/Lulu_latte.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7-Project4-BookStore/video/Lulu_latte.webm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,10 +99,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Section4-Project1-PureBootstrap/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Section5-Project2-Dashboard/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-110" />
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="597">
+              <caret line="122" column="20" lean-forward="true" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/src/js/lightbox.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#src#0;n#img#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
@@ -49,6 +166,11 @@
         <option value="$PROJECT_DIR$/Section 004 - Project 1 - Pure Bootstrap Website/Lecture 009 - Footer/index.html" />
         <option value="$PROJECT_DIR$/Section 004 - Project 1 - Pure Bootstrap Website/index.html" />
         <option value="$PROJECT_DIR$/Section 006 - Project 3 - photoX/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Section7-Project4-BookStore/js/jquery-3.3.1.min.js" />
+        <option value="$PROJECT_DIR$/Section7-Project4-BookStore/css/style.css" />
+        <option value="$PROJECT_DIR$/Section7-Project4-BookStore/js/script.js" />
+        <option value="$PROJECT_DIR$/Section7-Project4-BookStore/index.html" />
       </list>
     </option>
   </component>
@@ -74,12 +196,13 @@
             <path>
               <item name="udemy_bootstrap_4realprojects" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_4realprojects" type="462c0819:PsiDirectoryNode" />
-              <item name="Section4-Project1-PureBootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="Section7-Project4-BookStore" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemy_bootstrap_4realprojects" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_4realprojects" type="462c0819:PsiDirectoryNode" />
-              <item name="Section6-Project 3-photoX" type="462c0819:PsiDirectoryNode" />
+              <item name="Section7-Project4-BookStore" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -90,17 +213,19 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Section7-Project4-BookStore" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Section7-Project4-BookStore" />
       <recent name="$PROJECT_DIR$/Section 006 - Project 3 - photoX" />
       <recent name="$PROJECT_DIR$/Section 004 - Project 1 - Pure Bootstrap Website" />
       <recent name="$PROJECT_DIR$/Section 005 - Project 2 - Admin Dashboard" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Section7-Project4-BookStore" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Section 005 - Project 2 - Admin Dashboard" />
     </key>
@@ -127,19 +252,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562779947657</updated>
-      <workItem from="1562779948911" duration="4299000" />
+      <workItem from="1562779948911" duration="19686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4299000" />
+    <option name="totallyTimeSpent" value="19686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="23" width="1208" height="921" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24936816" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24936816" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3293124" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -161,79 +286,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Text And Colors.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Floats and Positions.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spacing And Sizing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Responsive Breakpoints.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section 003 - Layout/ Container Properties.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section 003 - Layout/ Flex-item Properties.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section 002 - Typography And Utilities/Text And Colors.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section 002 - Typography And Utilities/Spacing And Sizing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="84" selection-start-line="19" selection-start-column="84" selection-end-line="19" selection-end-column="84" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section 002 - Typography And Utilities/Responsive Breakpoints.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section 002 - Typography And Utilities/Floats and Positions.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section 002 - Typography And Utilities/ Basic Typography.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section 004 - Project 1 - Pure Bootstrap Website/Lecture 001 - Project Overview/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Section 004 - Project 1 - Pure Bootstrap Website/Lecture 002 - Navbar/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="632">
@@ -381,6 +433,139 @@
     <entry file="file://$PROJECT_DIR$/Section4-Project1-PureBootstrap/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-110" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="20" selection-start-column="20" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source-Files-Section-007-Project-4-Book-Store-Website/Lecture 002 - Header/js/popper.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/_editorconfig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/_gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/_jshintrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/DEPLOY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-129943">
+          <caret line="240" selection-start-line="240" selection-end-line="240" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section6-Project 3-photoX/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6113" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section6-Project 3-photoX/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section6-Project 3-photoX/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1760" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/Libraries.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/js/lightbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/js/jquery-3.3.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/css/lightbox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="99" column="20" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="86" column="14" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/js/popper.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/lightbox2-master/src/js/lightbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#src#0;n#img#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section5-Project2-Dashboard/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section7-Project4-BookStore/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="122" column="20" lean-forward="true" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="20" />
+        </state>
       </provider>
     </entry>
   </component>
