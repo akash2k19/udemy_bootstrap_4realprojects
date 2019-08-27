@@ -64,6 +64,8 @@ body {
     position: fixed;
     z-index: 150;
     width: 100%;
+    background: black;
+
 }
 
 .link-item {
@@ -293,11 +295,13 @@ header {
 
 /* contact */
 .contact {
-    background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .9)), url(../img/header-bg.jpeg) fixed center no-repeat /cover;
+    background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .9)),
+    url(../img/header-bg.jpeg) fixed center no-repeat /cover;
 }
 
 .items-wrapper {
-    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .6)), url(../img/items-wrapper-bg.jpg) center no-repeat /cover;
+    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .6)),
+    url(../img/items-wrapper-bg.jpg) center no-repeat /cover;
     border-radius: 5px;
 }
 
